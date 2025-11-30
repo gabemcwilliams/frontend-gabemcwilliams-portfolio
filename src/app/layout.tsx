@@ -19,8 +19,8 @@ export const metadata: Metadata = {
     description:
         "Portfolio and demo projects showcasing full-stack AI, frontend UX, and embedded systems.",
     icons: {
-        icon: [{url: "/gabe_mcwilliams_logo_base_favicon_circle.svg", type: "image/svg+xml"}],
-        apple: "/gabe_mcwilliams_logo_base_favicon_circle.svg",
+        icon: [{url: "/assets/favicon.svg", type: "image/svg+xml"}],
+        apple: "/assets/favicon.svg",
     },
 };
 
