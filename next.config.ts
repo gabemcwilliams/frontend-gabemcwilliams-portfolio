@@ -14,9 +14,7 @@ const nextConfig: NextConfig = {
         "127.0.0.1",
     ],
 
-    eslint: {
-        ignoreDuringBuilds: true,
-    },
+
 };
 
 export default nextConfig;
