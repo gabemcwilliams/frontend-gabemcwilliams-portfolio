@@ -5,7 +5,6 @@ import "./globals.css";
 
 import Script from "next/script";
 import React from "react";
-import {SpeedInsights} from "@vercel/speed-insights/next";
 import {ResizeManager} from "@/components/ResizeManager";
 
 const inter = Inter({
@@ -48,7 +47,6 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
             <main className="flex-grow">
                 {children}
                 <ResizeManager/> {/* your global listener remains */}
-                <SpeedInsights/>
             </main>
         </div>
 
