@@ -80,17 +80,18 @@ max-w-8xl mx-auto w-full
                     text,
                     and multimodal inputs, and deploying inference to edge devices. The goal is to develop systems that
                     learn,
-                    react, and adapt at the pace of life.
+                    react, and adapt to real-world conditions.
                 </p>
 
                 <blockquote
                     className={`border-l-4 pl-4 border-[var(--BRAND_ROBOT)] font-semibold italic ${quoteCls} mb-10 md:mb-18`}
                 >
-                    The future of automation is not just digital. It’s sentient.
+                    The future of automation is not just digital. It’s adaptive, embedded, and increasingly physical.
                 </blockquote>
 
                 <p className="text-xl">
-                    These are systems that tend to daily rhythms with the same diversity and nuance found in nature,
+                    These are systems designed around real-world rhythms, environmental feedback, and adaptive
+                    decision-making,
                     augmenting capability, enhancing physical environments, and abstracting away the friction of
                     everyday
                     repetition. This site documents that work.

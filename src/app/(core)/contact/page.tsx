@@ -24,9 +24,9 @@ export default function ContactPage() {
                 <h1 className="text-4xl font-bold mb-12">Let’s Talk</h1>
 
                 <p className="text-xl mb-8">
-                    I’m an data-first local ML developer and systems architect who thrives at the intersection of data,
+                    I’m a data-first ML developer and systems architect who thrives at the intersection of data,
                     automation, and real-world deployment.
-                    My background in infrastructure engineering gives me a deep mastery systems understanding, while my
+                    My background in infrastructure engineering gives me deep systems-level understanding, while my
                     focus on machine learning drives me to build systems that
                     learn, adapt, and scale without constant oversight.
                 </p>
@@ -38,7 +38,7 @@ export default function ContactPage() {
                 <p className="text-xl mb-12">
                     I’m currently looking to build partnerships with local and remote businesses in the greater Phoenix
                     area that need data transformation,
-                    integration, or predictive analytics solutions. Whether it’s modernizing data pipelines, connecting
+                    integration, or applied ML solutions. Whether it’s modernizing data pipelines, connecting
                     existing systems, or integrating
                     ML-driven insights into day-to-day operations, I’m open to exploring how we can work together.
                 </p>
@@ -61,10 +61,10 @@ export default function ContactPage() {
 
                 <ul className="list-disc list-inside text-lg mb-8 space-y-1">
                     <li>Freelance or contract ML and data engineering work</li>
-                    <li>Full-time applied ML or MLOps roles</li>
+                    <li>Full-time applied ML, data engineering, or MLOps roles</li>
                     <li>API architecture and backend service development</li>
-                    <li>Front-end collaboration using React + D3 .js</li>
-                    <li>Python-based data transformation and automation projects</li>
+                    <li>Front-end collaboration using React + D3.js</li>
+                    <li>Python-based data transformation, workflow orchestration, and automation projects</li>
                 </ul>
 
 
