@@ -6,6 +6,7 @@ import "./globals.css";
 import Script from "next/script";
 import React from "react";
 import {ResizeManager} from "@/components/ResizeManager";
+import ExtensionNoticeOverlay from '@/components/utils/system/ExtensionNoticeOverlay';
 
 const inter = Inter({
     subsets: ["latin"],
@@ -41,11 +42,14 @@ export default function RootLayout({children}: { children: React.ReactNode }) {
 
         <body className={`${inter.variable} antialiased`}>
 
+        <ExtensionNoticeOverlay/>
+
 
         {/* Your app */}
         <div className="flex flex-col min-h-screen">
             <main className="flex-grow">
                 {children}
+
                 <ResizeManager/> {/* your global listener remains */}
             </main>
         </div>
