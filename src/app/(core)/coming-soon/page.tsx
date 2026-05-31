@@ -15,7 +15,7 @@ export default function ComingSoonPage() {
 
       <ul className="text-lg leading-relaxed space-y-8 mb-16 list-disc pl-6">
         <li>
-          <span className="font-semibold pr-2">AI-driven job search engine:</span>
+          <span className="font-semibold pr-2">AI-driven resume and job alignment engine:</span>
           an intelligent matcher aligning resumes and job descriptions with transparency and control.
           <ul className="list-disc pl-6 mt-2 space-y-1">
             <li>
@@ -24,18 +24,18 @@ export default function ComingSoonPage() {
             </li>
             <li>
               <span className="font-semibold pr-2">ML:</span>
-              embeddings for semantic matching and skill clustering
+              embeddings, NLP, Qdrant vector search, and semantic matching for skill and experience alignment
             </li>
             <li>
               <span className="font-semibold pr-2">Frontend:</span>
-              Next.js + D3.js visual insight into alignment and fit
+              Next.js + D3.js visual insight into resume/job alignment and fit
             </li>
           </ul>
         </li>
 
         <li>
           <span className="font-semibold pr-2">Edge-first plant care system:</span>
-          sensors, a lightweight gateway, and a dashboard for monitoring soil conditions and safe, bounded watering.
+          sensors, a lightweight gateway, and a dashboard for monitoring environmental conditions and safe, bounded watering.
           <ul className="list-disc pl-6 mt-2 space-y-1">
             <li>
               <span className="font-semibold pr-2">Edge:</span>
@@ -55,7 +55,7 @@ export default function ComingSoonPage() {
 
       <h2 className="text-2xl font-semibold mb-4">Future projects</h2>
       <p className="text-xl mb-6">
-        Developing expressive, edge-driven robotics that blend LLMs, sensors, and motion for natural interaction.
+        Developing expressive, edge-driven robotics that blend LLMs, sensors, vision, and motion for natural interaction.
       </p>
       <ul className="text-lg leading-relaxed space-y-2 mb-16 list-disc pl-6">
         <li>Adaptive voice and motion control</li>
